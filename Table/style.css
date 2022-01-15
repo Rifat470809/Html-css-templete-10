@@ -1,0 +1,34 @@
+.ri{
+	margin: auto;
+	background: #333;
+	color: #fff;
+
+}
+
+table{
+	width: 50%;
+	border-collapse: collapse;
+	font-size: 24px;
+	margin: 200px auto!important;
+
+}
+
+
+table , th, td{
+	border: 2px solid blue;
+	
+	text-align:center;
+
+}
+th, td{
+	padding: 5px;
+}
+.rifat{
+	background: red;
+	color: #fff;
+}
+
+.rifat:hover{
+	background: blue;
+}
+

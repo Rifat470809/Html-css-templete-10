@@ -1,0 +1,31 @@
+table, th, td{
+	border: 1px solid #fe1ad7;
+	text-align:center;
+
+}
+
+table{
+	font-size: 40px;
+	border-collapse: collapse;
+}
+
+.table_left{text-align: left;}
+
+th, td{
+	padding: 20px;
+}
+
+.rifat{
+	background: red;
+	color: #fff;
+}
+
+.rifat:hover{
+	background: green;
+}
+
+.ro{
+	margin: auto;
+}
+
+
